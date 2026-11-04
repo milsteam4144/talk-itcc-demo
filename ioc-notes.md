@@ -5,8 +5,8 @@ Purpose: a template to log indicators of compromise (IOCs) from one phishing rep
 Do not click links or open attachments. Copy values from the headers or a report only.
 Write domains in a safe form so they do not become live links: `example[.]com`.
 
-- Ticket number: [ticket]
-- Date reported: [date]
+- Ticket number: 1
+- Date reported: 11/4/2026
 - Reported by: [role only, for example "staff user". No names.]
 
 | Type          | Value                             | Where found        |
@@ -20,4 +20,4 @@ Write domains in a safe form so they do not become live links: `example[.]com`.
 
 - SPF / DKIM / DMARC: [pass / fail / none]
 - Decision: [phishing / spam / legitimate / unsure]
-- Sent to security team: [yes / no, date]
+- Sent to security team: yes
