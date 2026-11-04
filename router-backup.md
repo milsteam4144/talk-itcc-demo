@@ -1,2 +1,2 @@
 Remember to reset router.
-Password is: 
+Password is: Ask Bob for Password
